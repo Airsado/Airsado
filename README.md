@@ -1,9 +1,17 @@
-### Hi there 👋
+
 
 <!--
 **Airsado/Airsado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+# Hi I'm Airsado
+<!--仓库状态统计-->
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Airsado&show_icons=true&theme=tokyonight)
+<!--常用语言占比-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airsado&layout=compact&theme=tokyonight)
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -1,5 +1,14 @@
 # Hi I'm Airsado
 
+<!--仓库状态统计-->
+<div style=" align="right" ">
+<img style="max-width: 450px"  src="https://github-readme-stats.vercel.app/api?username=Airsado&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="Airsado's github stats"/>
+<img style="max-width: 450px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airsado&layout=compact" alt="Airsado"/>
+</div>
+
+
+A lovely web developer based in UK, currently working on [RSS3](https://rss3.io/) and [Crossbell](https://crossbell.io/) at [Natural Selection Labs](https://github.com/NaturalSelectionLabs).
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -8,10 +17,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!--仓库状态统计-->
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Airsado&show_icons=true&theme=tokyonight)
-<!--常用语言占比-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Airsado&layout=compact&theme=tokyonight)
 
 

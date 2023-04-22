@@ -5,8 +5,11 @@ Freshman student currently studying Android development and Flutter framework.
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning :
   [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=4788F4)](https://www.airsado.cn/)
-  [![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=4578F4)](https://www.airsado.cn/)
-  [![Android](https://img.shields.io/badge/-android-3DDC84?logo=android&logoColor=61DAFB)](https://www.airsado.cn/)
+  [![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=02569B)](https://www.airsado.cn/)
+  [![Android](https://img.shields.io/badge/-android-3DDC84?logo=android&logoColor=00ff00)](https://www.airsado.cn/)
+  [![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffa812)](https://www.airsado.cn/)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=ffa700)](https://www.airsado.cn/)
+  [![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=E34F26)](https://www.airsado.cn/)
   
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->

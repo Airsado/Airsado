@@ -10,7 +10,7 @@ Freshman student currently studying Android development and Flutter framework.
   [![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffa812)](https://www.airsado.cn/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=ffa700)](https://www.airsado.cn/)
   [![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=E34F26)](https://www.airsado.cn/)
-  [![SpringBoot](https://img.shields.io/badge/-springboot-1572B6?logo=springboot&logoColor=#6DB33F)](https://www.airsado.cn/)
+  [![SpringBoot](https://img.shields.io/badge/-springboot-FF4000?logo=springboot&logoColor=#6DB33F)](https://www.airsado.cn/)
   
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->

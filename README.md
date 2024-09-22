@@ -1,6 +1,6 @@
 # Hi I'm Airsado 👋
 
-Freshman student currently studying Android development and Flutter framework.
+A third year college student, mainly studying mobile development and a little bit of backend
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning :

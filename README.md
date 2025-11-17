@@ -1,6 +1,6 @@
 # Hi I'm Airsado 👋
 
-A third year college student, mainly studying mobile development and a little bit of backend
+A front-end engineer from a small factory, mainly using Vue3 and PHP. Of course, I also learn other techniques privately
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning :
@@ -19,7 +19,7 @@ A third year college student, mainly studying mobile development and a little bi
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Airsado/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Airsado/count.svg)](https://www.airsado.cn/) visitor, Thank You!🎉🎉
 
 <!--仓库状态统计-->
 <span>

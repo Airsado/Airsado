@@ -2,6 +2,8 @@
 
 Working hard.
 
+![Top Languages](./profile/top-langs.svg)
+
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning :
   [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=4788F4)](https://flutter.dev/)
@@ -20,9 +22,10 @@ Working hard.
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+![Stats](./profile/stats.svg)
+
+
 Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@Airsado)](https://www.airsado.cn/) visitor, Thank You!🎉🎉
 
 <!--仓库状态统计-->
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)

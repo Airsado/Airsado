@@ -23,7 +23,6 @@ Working hard.
 Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@Airsado)](https://www.airsado.cn/) visitor, Thank You!🎉🎉
 
 <!--仓库状态统计-->
-<span>
-<img height=100  src="https://github-readme-stats.vercel.app/api?username=Airsado&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="Airsado's github stats"/></span><span>
-<img height=100  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airsado&layout=compact" alt="Airsado"/>
-</span>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)

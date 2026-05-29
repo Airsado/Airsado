@@ -20,7 +20,7 @@ Working hard.
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/Airsado/count.svg)](https://www.airsado.cn/) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@Airsado)](https://www.airsado.cn/) visitor, Thank You!🎉🎉
 
 <!--仓库状态统计-->
 <span>

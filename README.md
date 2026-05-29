@@ -22,10 +22,7 @@ Working hard.
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-![Stats](./profile/stats.svg)
-
 
 Welcome, You are my [![Visitor Count](https://count.getloli.com/get/@Airsado)](https://www.airsado.cn/) visitor, Thank You!🎉🎉
 
-<!--仓库状态统计-->
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+![Stats](./profile/stats.svg)
